@@ -45,5 +45,5 @@ We explore PINN-based methodologies to improve training robustness under these c
 This section is intended to demonstrate the methodology and training behavior.  
 Due to data restrictions, full reproducibility is not provided.
 
-### results
+### results : 1D ICP Time-dependent
 ![Result : prediction](assets/Plasma.png)
