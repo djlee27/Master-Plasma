@@ -3,3 +3,5 @@
 !*.py
 !*.ipynb
 !.gitignore
+
+!assets/Plasma.png
