@@ -18,7 +18,7 @@ Plasma simulation involves highly nonlinear and stiff systems, making it challen
 
 - Achieve stable convergence
 - Capture multi-scale physical behavior
-- Maintain consistency with numerical solutions :contentReference[oaicite:0]{index=0}
+- Maintain consistency with numerical solutions
 
 ### Approach
 
@@ -38,7 +38,7 @@ We explore PINN-based methodologies to improve training robustness under these c
 
 - Physics-only training captures general trends but lacks accuracy
 - Adding data loss significantly improves agreement with numerical solutions
-- The model demonstrates stable inference from initial conditions to steady state :contentReference[oaicite:1]{index=1}
+- The model demonstrates stable inference from initial conditions to steady state
 
 ### Notes
 
